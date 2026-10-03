@@ -6,7 +6,7 @@ I run **[AI Hustle World](https://aihustleworld.com)**, an independent publicati
 
 | Project | What it is | License |
 |---|---|---|
-| **[AI Tool Pricing Database](https://github.com/Muntasir-11/ai-tool-pricing-database)** | Open pricing data for AI tools. Every row links to the vendor page it was read from and shows the date it was last checked. | CC BY 4.0 |
+| **[AI Tool Pricing Database](https://github.com/Muntasir-11/ai-tool-pricing-database)** | Open pricing data for AI tools. Every row links to the vendor page it was read from and shows the date it was last checked. Listed in [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#economics), archived on [Zenodo](https://doi.org/10.5281/zenodo.23054247) and mirrored on [Kaggle](https://www.kaggle.com/datasets/aihustleworld/ai-tool-pricing-database). | CC BY 4.0 |
 | **[Prompt Engineering Toolkit](https://github.com/Muntasir-11/ai-hustle-world-prompt-toolkit)** | Reusable decision frameworks for prompting: context budgeting, system instructions, role prompting, structured output and more. | MIT |
 
 Corrections are the most useful contribution to either project. Open an issue, and it will be checked against a primary source.
