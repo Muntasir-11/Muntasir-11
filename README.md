@@ -16,7 +16,7 @@ Corrections are the most useful contribution to any of these projects. Open an i
 
 - **Prompt and context engineering:** [Context Engineering Explained](https://aihustleworld.com/2026/09/context-engineering-explained.html) · [How to Write System Instructions](https://aihustleworld.com/2026/09/how-to-write-system-instructions.html) · [Few-Shot vs Zero-Shot Prompting](https://aihustleworld.com/2026/09/few-shot-vs-zero-shot-prompting.html)
 - **Retrieval and AI search:** [Complete Guide to RAG](https://aihustleworld.com/2026/09/retrieval-augmented-generation-guide.html) · [Vector Databases Explained](https://aihustleworld.com/2026/09/vector-databases-explained.html) · [Optimizing for Google AI Overviews](https://aihustleworld.com/2026/08/how-to-optimize-your-website-for-google-ai-overviews-and-ai-search.html)
-- **AI tool reviews and pricing:** [OpusClip vs Descript vs Captions](https://aihustleworld.com/2026/09/opusclip-vs-descript-vs-captions.html) · [Weav Pricing Explained](https://aihustleworld.com/2026/09/weav-pricing-explained.html) · [ElevenLabs Review](https://aihustleworld.com/2026/08/elevenlabs-review.html)
+- **AI tool reviews and pricing:** [OpusClip vs Descript vs Captions](https://aihustleworld.com/2026/09/opusclip-vs-descript-vs-captions.html) · [Weav Review](https://aihustleworld.com/2026/09/weav-review.html) · [ElevenLabs Review](https://aihustleworld.com/2026/08/elevenlabs-review.html)
 
 ### How I work
 
